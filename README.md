@@ -3,8 +3,9 @@
 </p>
 
 <br />
+<br />
 
-This is a simple tutorial on how to use [Hand Brake](https://handbrake.fr/)
+This is a simple tutorial on how to use [Hand Brake](https://handbrake.fr/). After you download and install it, proceed below.
 
 Step 1.
 
