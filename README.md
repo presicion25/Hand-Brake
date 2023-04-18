@@ -7,6 +7,15 @@
 
 This is a simple tutorial on how to use [Hand Brake](https://handbrake.fr/). After you download and install it, proceed below.
 
+Click below for the tutorial details:
+ 
+ <details close>
+
+<div>
+
+</summary>
+ 
+
 Step 1.
 
 <p>
